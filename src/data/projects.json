@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "title": "Golf Charity Subscription Platform",
+    "description": "A full-stack Golf Charity Subscription Platform where users can subscribe, participate in charity-based golf draws, and track scores. Integrated Stripe payments, secure authentication, admin dashboard, and real-time analytics using MERN stack.",
+    "tech": ["React", "Node.js", "Express", "Superbase", "Stripe", "JWT", "Tailwind", "REST APIs", "JavaScript", "HTML", "CSS"],
+    "live": "https://golf-charity-subscription-platform-opal-tau.vercel.app/",
+    "github": "https://github.com/Rotesh-raj/Golf-Charity-Subscription-Platform",
+    "image": "/public/Project.png"
+  },
+  {
+    "id": 2,
+    "title": "Final-Year College Project",
+    "description": "CBuilt a Campus Connection platform using React, Node.js, Express, and MongoDB. Implemented JWT authentication, REST APIs, and responsive UI with Tailwind CSS. Added features like event management, student networking, and real-time updates..",
+    "tech": ["React", "Node.js", "Express", "MongoDB", "JWT", "Tailwind , REST APIs", "JavaScript", "HTML", "CSS"],
+    "live": "https://dsi-connection.vercel.app?_vercel_share=e3bQCLtCyWlADjY1nUmBS4ToXbn6UQfA",
+    "github": "https://github.com/Rotesh-raj/Campus-connection",
+    "image": "/public/College.png"
+  },
+  {
+    "id": 3,
+    "title": "AI-Auto-Category-Tag-Generator",
+    "description": "Node.js, Express.js, MongoDB, Ollama (Llama3), WhatsApp Cloud API, REST APIs, dotenv, axios",
+    "tech": ["React", "Chart.js", "LocalStorage", "Tailwind","MongoDB", "Node.js", "Express.js", "Ollama (Llama3)", "WhatsApp Cloud API", "REST APIs", "dotenv", "axios"],
+    "live": "https://assignments-demo-page.vercel.app/",
+    "github": "https://github.com/riteshraj/ecommerce-dashboard",
+    "image": "/public/Assignment.png"
+  }
+]
